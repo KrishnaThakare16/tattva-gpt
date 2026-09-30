@@ -1,0 +1,1 @@
+Replace these project-specific placeholders with your final assets: logo.png, hero.webp, service-led.webp, service-ooh.webp, project-01.webp, project-02.webp. The current layout uses styled image slots so the page stays intentional before real photography is supplied. Keep source images compressed and use WebP or AVIF where possible.
